@@ -1,0 +1,24 @@
+@relation customer
+@attribute No real
+@attribute Customer{jay,chirag,pratik,utkarsh,salim,abhijet,omkar,mayuresh,ganesh,tushar,harshal,yash,amol,sarin,sachin,vedant,shubham}
+@attribute City{khargahr,andheri,pune,mumbai,nerul,belapur,seawood,vashi,chembur,borivali,virar,panvel,parel,shivdi,sion,dadar,cst}
+@attribute Contact real
+@data
+%No,Customer,City ,Contact
+1,jay,khargahr,90002345
+2,chirag,andheri,90002346
+3,pratik,pune,90002347
+4,utkarsh,mumbai,90002348
+5,salim,nerul,90002349
+6,abhijet,belapur,90002350
+7,omkar,seawood,90002351
+8,mayuresh,vashi,90002352
+9,ganesh,chembur,90002353
+10,tushar,borivali,90002354
+11,harshal,virar,90002355
+12,yash,panvel,90002356
+13,amol,parel,90002357
+14,sarin,shivdi,90002358
+15,sachin,sion,90002359
+16,vedant,dadar,90002360
+17,shubham,cst,90002361
